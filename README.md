@@ -1,4 +1,4 @@
-![snake svg](https://github.com/Ernesto-Alves67/Ernesto-Alves67/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/Ernesto-Alves67/Ernesto-Alves67/blob/output/github-contribution-grid-snake.svg)
 
 - 👋 Hi, I’m @Ernesto-Alves67
 - 👀 I’m interested in work with Software Develoment. I'm learning Computer Science at Universidade Federal de Catalão(UFCAT).
