@@ -36,7 +36,7 @@
     <img align="center" alt="Cmake" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">  
 </div>
 
-![snake svg](https://github.com/Ernesto-Alves67/Ernesto-Alves67/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
