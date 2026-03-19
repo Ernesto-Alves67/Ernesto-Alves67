@@ -22,29 +22,19 @@
  ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Qt" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg">
 </div>
 
-### Studying at this moment:
+### Affinity:
 <div style="display: inline_block"><br>
-    <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    <img align="center" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg">
     <img align="center" alt="Android" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+    <img align="center" alt="Delphi" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg">
+  <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">
     <img align="center" alt="Bash" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
     <img align="center" alt="Cmake" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">  
 </div>
-
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ernesto-Alves67}/count.svg" /></p> 
-<br>
-</div>
-
-<div align="center">
 
   
 </div>
