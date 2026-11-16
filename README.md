@@ -4,9 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ernesto-Alves67&bg_color=0d1117&color=4682B4&line=FF6347&point=FFA07A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ernesto-Alves67&show_icons=true&count_private=true&hide_border=true&title_color=4682B4&icon_color=4682B4&text_color=c9d1d9&bg_color=0d1117" alt="Ernesto Alves github stats" /> 
-</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ernesto-Alves67&theme=alduin&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
