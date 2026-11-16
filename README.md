@@ -36,8 +36,7 @@
     <img align="center" alt="Cmake" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg">  
 </div>
 
-  
-</div>
+
 
 <!---
 Ernesto-Alves67/Ernesto-Alves67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
